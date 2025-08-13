@@ -1,0 +1,52 @@
+/* navbar.css */
+
+/* General navbar container */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: black;
+  color: white;
+}
+
+/* Logo or brand name */
+.navbar-logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #ffcc00;
+  cursor: pointer;
+}
+
+/* Links container */
+.navbar-links {
+  display: flex;
+  gap: 1.5rem;
+}
+
+/* Individual link styles */
+.navbar-links a {
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+/* Hover effect for links */
+.navbar-links a:hover {
+  color: #ffcc00;
+}
+
+/* Responsive design: Stack items on small screens */
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .navbar-links {
+    flex-direction: column;
+    gap: 1rem;
+    margin-top: 0.5rem;
+  }
+}
