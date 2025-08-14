@@ -55,7 +55,7 @@
 
 6. Open in browser 
 
-  http://localhost:4000
+    http://localhost:4000
 
 📌 Future Enhancements
 
