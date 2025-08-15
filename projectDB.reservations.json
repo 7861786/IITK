@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "689b6699ef8c348adb6dd74b"
+  },
+  "firstName": "Aman",
+  "lastName": "Shrivastava",
+  "date": "2025-08-12",
+  "time": "21:42",
+  "email": "amanshrivastava78617861@gmail.com",
+  "phone": "8303239778",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b68b9ef8c348adb6dd74d"
+  },
+  "firstName": "Naman",
+  "lastName": "Sen",
+  "date": "2005-06-13",
+  "time": "07:00",
+  "email": "namansen7861@gmail.com",
+  "phone": "8365239778",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b71d9ef8c348adb6dd750"
+  },
+  "firstName": "Raghav",
+  "lastName": "pandey",
+  "date": "2004-03-02",
+  "time": "22:24",
+  "email": "raghavpandey61@gmail.com",
+  "phone": "8743543977",
+  "__v": 0
+}]
